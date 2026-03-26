@@ -6,7 +6,6 @@ package TugasDaring;
 import java.util.Scanner;
 public class Lembur {
 
-   public class LemburKaryawan {
 
     public static void main(String[] args) {
         Scanner input = new Scanner(System.in);
@@ -25,6 +24,5 @@ public class Lembur {
         }
           
         System.out.println("Upah Lembur =Rp."+ upah);
-        }
-    }
+      }
 }
